@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"97825dd662ab1ac4","type":"group","x":-300,"y":-700,"width":400,"height":400,"color":"3","label":"groupOne"},
+		{"id":"40e2be2fb39a1fc5","type":"file","file":"diary/2025-03-29.md","x":-380,"y":-80,"width":400,"height":400},
+		{"id":"6134e636eb53c943","type":"text","text":"`hello` `Kitty`","x":-630,"y":-155,"width":250,"height":60,"color":"3"},
+		{"id":"aaa698a3d9fdfe83","type":"link","url":"http://localhost:8001/doc.html","x":-780,"y":-720,"width":400,"height":300},
+		{"id":"87bb0e3b205a4fbd","type":"text","text":"# title one","x":-230,"y":-680,"width":250,"height":60},
+		{"id":"07df7a97b59b56f2","type":"file","file":"assets/pixel-banner-image.png","x":-780,"y":-380,"width":400,"height":225}
+	],
+	"edges":[]
+}
