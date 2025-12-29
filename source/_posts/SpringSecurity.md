@@ -16,8 +16,8 @@ date: 2025-09-09T21:05:00
 - 认证:  就是 对来访者进行**登陆校验和后面的认证校验**; 
 - 授权:  是对用户的操作进行**权限校验**
 - 其实认证的底层其实是**过滤器链的调用**, 使用了提供各种功能的过滤器: 核心过滤器链有
-	- **UsernamePasswordAuthenticationFilter**: 处理填写账号密码后的登陆逻辑
 	- **CsrfFilter**: 处理跨域问题的过滤器
+	- **UsernamePasswordAuthenticationFilter**: 处理填写账号密码后的登陆逻辑
 	- **ExceptionTranslationFilter**: 处理过滤器链中发生的任何异常
 	- **FilterSecurityInterceptor**: 负责权限校验的过滤器
 
