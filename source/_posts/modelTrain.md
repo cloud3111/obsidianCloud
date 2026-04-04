@@ -13,7 +13,7 @@ date: 2026-04-04T18:59:00
 ![17753022760231775302275598.png|700x498](https://fastly.jsdelivr.net/gh/cloud3111/cloudWallpaper@main/17753022760231775302275598.png)
 [参考文献](https://cloud.tencent.com/developer/article/2561903)
 
-	名人名言
+	什么都无法舍弃的人，什么都无法改变
 ## 数据集
 训练集格式: 图像和标签
 voc格式 每一个图像对应一个xml文件
@@ -67,7 +67,7 @@ RAG（检索增强生成）：为LLM注入知识与记忆
 增强：将检索到的片段作为上下文，与用户查询一同提交给LLM。
 生成：LLM基于提供的权威上下文生成更准确、可靠的答案
 原则上可以利用所以现存的数据库, 包括关系型和非关系型数据库来做,  但是比较常用的比较适配的有PostgreSQL,PgVector  在我自己的项目中使用的是ES作为向量数据库
-## ToolCalling
+## ToolCallingAndMCP
 用户问题
  ↓
 LLM 推理
