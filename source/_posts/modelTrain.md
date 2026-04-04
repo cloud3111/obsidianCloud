@@ -1,6 +1,6 @@
 ---
 banner: "[[pixel-banner-image.png]]"
-title: Agent开发模型训练
+title: 深度学习与智能体(Agent)技术
 tags:
   - Agent
   - Model
@@ -9,11 +9,12 @@ categories: 编程
 date: 2026-04-04T18:59:00
 ---
 
-# 模型训练
+# 深度学习与智能体(Agent)技术
 ![17753022760231775302275598.png|700x498](https://fastly.jsdelivr.net/gh/cloud3111/cloudWallpaper@main/17753022760231775302275598.png)
 [参考文献](https://cloud.tencent.com/developer/article/2561903)
 
 	什么都无法舍弃的人，什么都无法改变
+## 计算机视觉模型训练精要
 ## 数据集
 训练集格式: 图像和标签
 voc格式 每一个图像对应一个xml文件
