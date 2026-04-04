@@ -75,6 +75,5 @@ Spring AI 调用你写的 Java 方法
  ↓
 结果再喂给 LLM
 ### 流程图
-
 ![17753022760231775302275598.png|700x498](https://fastly.jsdelivr.net/gh/cloud3111/cloudWallpaper@main/17753022760231775302275598.png)
 [参考文献](https://cloud.tencent.com/developer/article/2561903)
