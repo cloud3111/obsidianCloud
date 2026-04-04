@@ -50,4 +50,7 @@ Large Langueage Model
 SpringAi：用Java语言基于大语言模型构建智能体的框架
 ## Agent开发工程师核心工作
 1. Prompt设计
-### Tool Calling（工具调用）
+2. Tool Calling 工具调用
+3. Rag检索中间库
+4. Memory上下文对话历史
+结合以上功能的才能算作一个针对某个方向的智能体, 后面可以升级为多Agent协同
