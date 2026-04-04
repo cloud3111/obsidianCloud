@@ -1,7 +1,10 @@
 ---
 banner: "[[pixel-banner-image.png]]"
-title: 
-tags: 
+title: Agent开发模型训练
+tags:
+  - Agent
+  - Model
+  - Rag
 categories: 编程
 date: 2026-04-04T18:59:00
 ---
@@ -45,3 +48,6 @@ Large Langueage Model
 后者是基于图片/视频进行图像分类，语义分割，目标检测
 智能体：基于Python/Java语言对大语言模型或者视觉模型进行赋能，让其在回复的基础上调用工具，比如购票：能实现自主查余票，购票下单等流程
 SpringAi：用Java语言基于大语言模型构建智能体的框架
+## Agent开发工程师核心工作
+1. Prompt设计
+### Tool Calling（工具调用）
